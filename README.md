@@ -6,4 +6,6 @@
 
 ### isPrime: checks whether a given number is a Prime Number or not
 
-### fibonacci: prints out the  fibonacci sequence untill a given number
+### fibonacci: prints out the Fibonacci Sequence untill a given number
+
+All code written in Python 3.10.1
