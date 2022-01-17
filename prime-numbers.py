@@ -13,12 +13,12 @@ def isPrime(num):
 
 '''Manual Tests'''
 
-print(isPrime(7))
-print(isPrime(21))
-print(isPrime(49))
-print(isPrime(3))
-print(isPrime(9))
-print(isPrime(11))
-print(isPrime(15))
+# print(isPrime(7))
+# print(isPrime(21))
+# print(isPrime(49))
+# print(isPrime(3))
+# print(isPrime(9))
+# print(isPrime(11))
+# print(isPrime(15))
 
 
